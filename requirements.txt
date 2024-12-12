@@ -1,0 +1,2 @@
+streamlit # To run the Streamlit app
+requests # To send HTTP requests to the Hugging Face API to get model responses
