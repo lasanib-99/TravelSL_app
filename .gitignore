@@ -77,6 +77,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.vscode
 
 # IPython
 profile_default/
@@ -123,12 +124,12 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.venv_cb
 env/
-venv/
+venv_cb/
 ENV/
 env.bak/
-venv.bak/
+venv_cb.bak/
 
 # Spyder project settings
 .spyderproject
